@@ -1,0 +1,31 @@
+Puertos vistos durante la captura:
+53810
+53812
+3478
+63922
+53803
+58074
+58082
+58083
+63923
+53811
+58081
+49358
+62204
+
+Longitudes de paquetes:
+Port: 3478, Length: 268
+Port: 49358, Length: 1145
+Port: 49358, Length: 1145
+Port: 49358, Length: 1145
+Port: 49358, Length: 1145
+Port: 49358, Length: 1145
+Port: 49358, Length: 1146
+Port: 49358, Length: 1146
+Port: 49358, Length: 1146
+Port: 3478, Length: 60
+Port: 3478, Length: 138
+Port: 3478, Length: 74
+Port: 3478, Length: 60
+Port: 3478, Length: 131
+Port: 53811, Length: 355
